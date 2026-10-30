@@ -1,0 +1,18 @@
+# C++ / Qt build artifacts
+Makefile*
+object_script.*
+*.o
+*.obj
+*.stash
+*.log
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# Qt Creator generated user files
+*.pro.user
+*.pro.user.*
+
+# Build directories
+debug/
+release/
